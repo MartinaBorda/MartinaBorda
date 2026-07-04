@@ -69,3 +69,80 @@ Cosas favoritas:
 ---
 
 </div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MartinaBorda&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinaBorda&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MartinaBorda&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🌸 Fun Facts
+
+🌷 I started my programming journey in technical high school.
+
+☕ Coffee is my favorite coding companion.
+
+📚 Romance books will always have a special place on my bookshelf.
+
+🌧️ Rainy afternoons are the perfect excuse to read or code.
+
+💙 I enjoy making things look as pretty as they work.
+
+---
+
+# ☕ My Cozy Corner
+
+text
+Current Mood
+───────────────
+☕ Coffee ............. ██████████
+📚 Reading ............ ██████████
+💻 Coding ............. ████████░░
+🌧️ Rainy Days ......... ██████████
+
+
+---
+
+# 🌱 2026 Goals
+
+- [ ] Learn JavaScript
+- [ ] Build my first complete website
+- [ ] Create more GitHub projects
+- [ ] Learn React
+- [ ] Contribute to an open-source project
+ ✨
+
+---
+
+<div align="center">
+
+<img src="https://media.tenor.com/6QzgmJ4R5RQAAAAi/cinnamoroll-sanrio.gif" width="120"/>
+
+
+</div>
