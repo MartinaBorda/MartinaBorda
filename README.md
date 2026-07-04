@@ -16,7 +16,6 @@
 
 # 🌸 About Me
 
-yaml
 Nombre: Martina Borda
 
 Locación: Buenos Aires, Argentina 🇦🇷
