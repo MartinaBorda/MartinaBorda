@@ -121,6 +121,7 @@ Cosas favoritas:
 text
 Current Mood
 ───────────────
+
 ☕ Coffee ............. ██████████
 
 📚 Reading ............ ██████████
