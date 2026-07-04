@@ -22,6 +22,7 @@ Locación: Buenos Aires, Argentina 🇦🇷
 
 Educación:
 Escuela de Educación Secundaria Técnica N°1
+
 Programación 
 
 Actualmente aprendiendo:
@@ -62,9 +63,7 @@ Cosas favoritas:
 #  🎀 Mis objetivos
 
 ☁️ Aprender nuevas tecnologías cada año.
-
 💻 Convertirme en desarrolladora de software.
-
 🌸 Seguir creciendo paso a paso.
 ---
 
