@@ -150,3 +150,64 @@ Current Mood
 
 
 </div>
+
+---
+
+<h2 align="center">🌷 Featured Projects 🌷</h2>
+
+<p align="center">
+✨ These are some of the projects I'm most proud of. <br>
+More exciting projects are coming soon! 💙
+</p>
+
+| 🌸 Project | ✨ Description |
+|------------|---------------|
+| 💻 School Projects | Programming assignments and technical school projects. |
+| 🌐 Personal Projects | Small ideas to practice and learn new technologies. |
+| 🚀 Future Portfolio | A collection of everything I'll build during my journey. |
+
+---
+
+<h2 align="center">💌 Let's Connect 💌</h2>
+
+<p align="center">
+
+<a href="https://github.com/MartinaBorda">
+<img src="https://img.shields.io/badge/GitHub-CDEEFF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/M4rtu_089">
+<img src="https://img.shields.io/badge/Instagram-F8C8DC?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:martinaborda191208@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-DCC6F0?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h2 align="center">🌸 Thank you for visiting! 🌸</h2>
+
+<div align="center">
+
+> *"Every line of code is another step toward my dreams."* ✨
+
+<img src="https://media.tenor.com/LxggFGxwOjIAAAAi/cinnamoroll.gif" width="130"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=MartinaBorda&style=for-the-badge&color=F8C8DC"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ☕ See you in my next commit! 🌷
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=23,19,16,24"/>
