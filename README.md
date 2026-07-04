@@ -62,9 +62,10 @@ Cosas favoritas:
 
 #  🎀 Mis objetivos
 
-☁️ Aprender nuevas tecnologías cada año.
-💻 Convertirme en desarrolladora de software.
-🌸 Seguir creciendo paso a paso.
+- ☁️ Aprender nuevas tecnologías cada año.
+- 💻 Convertirme en desarrolladora de software.
+- 🌸 Seguir creciendo paso a paso.
+  
 ---
 
 </div>
