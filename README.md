@@ -17,23 +17,21 @@
 # 🌸 About Me
 
 yaml
-name: Martina Borda
+Nombre: Martina Borda
 
-pronouns: she/her
+Locación: Buenos Aires, Argentina 🇦🇷
 
-location: Buenos Aires, Argentina 🇦🇷
-
-education:
+Educación:
 Escuela de Educación Secundaria Técnica N°1
 Programación 
 
-currently_learning:
+Actualmente aprendiendo:
   - Java ☕
   - Python 🐍
   - HTML & CSS 🌐
   - SQL 🗄️
 
-favorite_things:
+Cosas favoritas:
   - ☕ Coffee
   - 📚 Romance Books
   - 🌧️ Rainy Days
@@ -52,24 +50,23 @@ favorite_things:
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Actualmente aprendiendo
 
-- 🌸 Object-Oriented Programming
-- ☁️ Databases
-- 💻 Software Development
-- 🌐 Web Development
-- 📂 Git & GitHub
+- 🌸 Programación Orientada a Objetos
+- ☁️ Bases de Datos
+- 💻 Desarrollo de Software
+- 🌐 Desarrollo Web
+- 📂 Git y GitHub
 
 ---
 
-# 🎀 My Goals
+#  🎀 Mis objetivos
 
-☁️ Learn new technologies every year.
+☁️ Aprender nuevas tecnologías cada año.
 
-💻 Become a Software Developer.
+💻 Convertirme en desarrolladora de software.
 
-🌸 Keep growing one commit at a time.
-
+🌸 Seguir creciendo paso a paso.
 ---
 
 </div>
