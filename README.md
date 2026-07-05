@@ -22,9 +22,6 @@
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&pause=1000&color=FDE2E4&width=1&lines=+" />
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MartinaBorda&color=ffb6c1&style=flat-square" alt="Contador de visitas">
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MartinaBorda&label=Visitas&color=f7a8c6&style=for-the-badge" alt="Contador de visitas">
