@@ -38,7 +38,7 @@
 - 🗄️ SQL
 
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FDE2E4&height=60"/>
+✧･ﾟ: ✧･ﾟ: :･ﾟ✧:･ﾟ✧
 
 ## 💖 Tecnologías
 
@@ -50,7 +50,7 @@
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FDE2E4&height=60"/>
+✧･ﾟ: ✧･ﾟ: :･ﾟ✧:･ﾟ✧
 
 ## 📫 Contacto
 
@@ -67,7 +67,7 @@
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FDE2E4&height=60"/>
+✧･ﾟ: ✧･ﾟ: :･ﾟ✧:･ﾟ✧
 
 ## 🐍 Mis contribuciones
 
@@ -76,7 +76,7 @@
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FDE2E4&height=60"/>
+✧･ﾟ: ✧･ﾟ: :･ﾟ✧:･ﾟ✧
 
 <div align="center">
 
