@@ -81,11 +81,11 @@
 
 <div align="center">
 
-📧 *Correo*
+📧 Correo
 
 martinaborda191208@gmail.com
 
-📷 *Instagram*
+📷 Instagram
 
 <a href="https://instagram.com/M4rtu_089">
 <img src="https://img.shields.io/badge/@M4rtu__089-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
