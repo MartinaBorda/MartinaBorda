@@ -82,20 +82,6 @@
 
 ---
 
-# 🌸 Un poco sobre mí
-
-💗 Amo la programación.
-
-🌸 Me gusta aprender algo nuevo todos los días.
-
-☕ Java es uno de mis lenguajes favoritos.
-
-🐍 También disfruto programar con Python.
-
-🌷 Estoy construyendo poco a poco mi camino como desarrolladora.
-
----
-
 # 🌼 Contacto
 
 <div align="center">
@@ -109,16 +95,6 @@ martinaborda191208@gmail.com
 <a href="https://instagram.com/M4rtu_089">
 <img src="https://img.shields.io/badge/@M4rtu__089-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-# 💖 Frase favorita
-
-<div align="center">
-
-> "Every expert was once a beginner." 🌸
 
 </div>
 
