@@ -24,8 +24,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&pause=1000&color=FDE2E4&width=1&lines=+" />
 
 <p align="center">
-  <img src="assets/pixel-cat.png" width="180" alt="Gatita pixel art programando"/><br><br>
-
   <img src="https://komarev.com/ghpvc/?username=MartinaBorda&label=%F0%9F%92%97%20Visitas&color=f7a8c6&style=for-the-badge" alt="Contador de visitas"/>
 </p>
 
