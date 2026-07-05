@@ -78,8 +78,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=FDE2E4&height=60"/>
 
-<div align="center">
-
-🌸 Gracias por visitar mi perfil 🌸
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FDE2E4&height=120"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=E88CB8&center=true&vCenter=true&width=500&lines=🌸+Gracias+por+visitar+mi+perfil🌸" />
+</p>
