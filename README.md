@@ -78,10 +78,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=FDE2E4&height=60"/>
 
-<p align="center">
-  <img src="assets/visitor-cat.png" width="500" alt="Gracias por visitar mi perfil">
-</p>
-
 <div align="center">
 
 🌸 Gracias por visitar mi perfil 🌸
