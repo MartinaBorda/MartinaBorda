@@ -51,6 +51,16 @@
 
 ---
 
+## 📊 Mis estadísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MartinaBorda&show_icons=true&theme=rose_pine&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinaBorda&layout=compact&theme=rose_pine&hide_border=true"/>
+
+</div>
+
 <div align="center">
 
 🌸 Gracias por visitar mi perfil 🌸
