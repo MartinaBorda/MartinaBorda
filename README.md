@@ -2,7 +2,7 @@
 
 💗 Estudiante de la Escuela de Educación Secundaria Técnica N.º 1 de Esteban Echeverría.
 
-💻 Orientación en Programación.
+💻 Orientación en Programación. 
 
 🌱 Actualmente aprendiendo:
 - Java
