@@ -62,14 +62,6 @@
 
 ---
 
-## 📊 Mis estadísticas
-
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=MartinaBorda&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 <div align="center">
 
 🌸 Gracias por visitar mi perfil 🌸
