@@ -22,7 +22,7 @@
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8A8C6&height=60"/>
+🌸 ─────── 🌸
 
 ## 🌷 Sobre mí
 
