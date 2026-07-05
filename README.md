@@ -7,12 +7,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=F7A8C4&center=true&vCenter=true&width=550&lines=Programming+Student;Java+%E2%80%A2+Python+%E2%80%A2+HTML+%26+CSS;Always+learning+new+things+%F0%9F%8C%B8"/>
 
-</div>
-
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MartinaBorda&style=for-the-badge&color=F8C8DC"/>
 </p>
+</div>
+
+---
 
 # 🌷 Sobre mí
 
