@@ -50,7 +50,7 @@
 
 <p align="center">
 
-<a href="mailto:martinaborda191208@gmail.com">
+<a href="mailto:martinaborda191208@gmail.com"> 
 <img src="https://img.shields.io/badge/Gmail-F8C8DC?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
