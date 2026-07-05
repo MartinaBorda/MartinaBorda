@@ -2,15 +2,22 @@
   <img src="assets/banner.png" alt="Banner de Martina" width="100%">
 </p>
 
-<div align="center">
+<h1 align="center">🌸 Martina 🌸</h1>
 
-# 🌸 Martina 🌸
+<p align="center">
+💗 Estudiante de Programación
+</p>
 
-### 💗 Programming Student
+<p align="center">
+<i>"Aprender, crear y crecer cada día."</i>
+</p>
 
-> "Learning, creating and growing every day."
-
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk">
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3">
+</p>
 
 ---
 
