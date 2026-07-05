@@ -6,8 +6,6 @@
 
 <p align="center">
 💗 Estudiante de Programación
-
-  ✨ Bienvenido/a a mi perfil ✨
   
 </p>
 
