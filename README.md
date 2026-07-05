@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-<i>"Aprender, crear y crecer cada día."</i>
-</p>
-
-<p align="center">
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk">
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5">
