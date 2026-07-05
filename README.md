@@ -72,7 +72,7 @@
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8A8C6&height=60"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FDE2E4&height=60"/>
 
 <div align="center">
 
