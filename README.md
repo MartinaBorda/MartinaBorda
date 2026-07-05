@@ -18,7 +18,7 @@
 
 ---
 <h2 align="center" style="color:#E88CB8;">
-🌸 Bienvenida/o  a mi perfil 🌸
+🌸 Bienvenido/a+a+mi+perfil 🌸
 </h2>
 
 ## 🌷 Sobre mí
