@@ -64,7 +64,7 @@
 ## 🐍 Mis contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinaBorda/MartinaBorda/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
