@@ -10,6 +10,9 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MartinaBorda&style=for-the-badge&color=F8C8DC"/>
+</p>
 
 # 🌷 Sobre mí
 
