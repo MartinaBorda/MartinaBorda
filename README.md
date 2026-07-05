@@ -17,9 +17,9 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=E88CB8&center=true&vCenter=true&width=500&lines=Bienvenido/a+a+mi+perfil+🌸;Estudiante+de+Programación+💻" />
-</p>
+<h2 align="center" style="color:#E88CB8;">
+🌸 Bienvenida/o a mi perfil 🌸
+</h2>
 
 ## 🌷 Sobre mí
 
