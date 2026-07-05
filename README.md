@@ -25,16 +25,14 @@
 
 ## 🌷 Sobre mí
 
+👩‍💼​​ Mi nomre es Martina Liliana Borda.
+
+🇦🇷 Soy de Buenos Aires, Argentina. 
+
 💻 Soy estudiante de la Escuela de Educación Secundaria Técnica N.º 1 de Esteban Echeverría.
 
 🎓 Especialización en Programación.
 
-🌱 Actualmente estoy aprendiendo:
-
-- ☕ Java
-- 🐍 Python
-- 🌐 HTML & CSS
-- 🗄️ SQL
 
 ✧･ﾟ: ✧･ﾟ: :･ﾟ✧:･ﾟ✧･ﾟ: ✧･ﾟ: :･ﾟ✧:･ﾟ✧･ﾟ: ✧･ﾟ: :･ﾟ✧:･ﾟ✧･ﾟ: ✧･ﾟ: :･ﾟ✧:･ﾟ✧･ﾟ: ✧･ﾟ: :･ﾟ✧:･ﾟ✧･ﾟ: ✧･ﾟ: :･ﾟ✧:･ﾟ✧･ﾟ: ✧･ﾟ: :･ﾟ✧:･ﾟ✧･ﾟ: ✧･ﾟ:･ﾟ✧:･ﾟ✧:･ﾟ✧･ﾟ: ✧･ﾟ:･ﾟ✧:･ﾟ✧:･ﾟ
 
