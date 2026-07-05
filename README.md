@@ -13,15 +13,11 @@
 
 # 🌷 Sobre mí
 
-🌸 ¡Hola! Soy *Martina*.
+🌸 ¡Hola! Soy Martina.
 
-🎓 Estudiante de la *Escuela de Educación Secundaria Técnica N.º 1 de Esteban Echeverría*.
+🎓 Estudiante de la Escuela de Educación Secundaria Técnica N.º 1 de Esteban Echeverría.
 
-💻 Especialización en *Programación*.
-
-💖 Me apasiona aprender nuevas tecnologías y crear proyectos que me permitan crecer como desarrolladora.
-
-✨ Disfruto resolver problemas y descubrir nuevas formas de programar.
+💻 Especialización en Programación.
 
 ---
 
