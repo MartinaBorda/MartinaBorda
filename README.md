@@ -21,6 +21,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=E88CB8&center=true&vCenter=true&width=500&lines=🌸+Bienvenido/a+a+mi+perfil+🌸" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MartinaBorda&label=Visitas&color=f7a8c6&style=for-the-badge" alt="Contador de visitas">
+</p>
+
 ✧･ﾟ: ✧･ﾟ: :･ﾟ✧:･ﾟ✧･ﾟ: ✧･ﾟ: :･ﾟ✧:･ﾟ✧･ﾟ: ✧･ﾟ: :･ﾟ✧:･ﾟ✧･ﾟ: ✧･ﾟ: :･ﾟ✧:･ﾟ✧･ﾟ: ✧･ﾟ: :･ﾟ✧:･ﾟ✧･ﾟ: ✧･ﾟ: :･ﾟ✧:･ﾟ✧･ﾟ: ✧･ﾟ: :･ﾟ✧:･ﾟ✧･ﾟ: ✧･ﾟ:･ﾟ✧:･ﾟ✧:･ﾟ✧･ﾟ: ✧･ﾟ:･ﾟ✧:･ﾟ✧:･ﾟ
 
 ## 🌷 Sobre mí
