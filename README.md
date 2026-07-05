@@ -5,7 +5,7 @@
 <h1 align="center">🌸 Martina 🌸</h1>
 
 <p align="center">
-*💗 Estudiante de Programación*
+💗 Estudiante de Programación 
   
 </p>
 
