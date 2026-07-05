@@ -16,10 +16,12 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3">
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FDE2E4&height=120"/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=E88CB8&center=true&vCenter=true&width=500&lines=🌸+Bienvenido/a+a+mi+perfil+🌸" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8A8C6&height=60"/>
 
 ## 🌷 Sobre mí
 
@@ -34,7 +36,7 @@
 - 🌐 HTML & CSS
 - 🗄️ SQL
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FDE2E4&height=60"/>
 
 ## 💖 Tecnologías
 
@@ -44,7 +46,7 @@
 
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FDE2E4&height=60"/>
 
 ## 📫 Contacto
 
@@ -60,14 +62,16 @@
 
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FDE2E4&height=60"/>
+
 ## 🐍 Mis contribuciones
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FDE2E4&height=60"/>
+
 <div align="center">
 
 🌸 Gracias por visitar mi perfil 🌸
